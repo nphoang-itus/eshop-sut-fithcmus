@@ -24,3 +24,7 @@ npm-debug.log*
 # Expo Go binary
 frontend-mobile/Expo-Go-*.tar.app/
 frontend-mobile/Expo-Go-*.tar.gz
+
+# Database
+*.sqlite
+*.sqlite3
